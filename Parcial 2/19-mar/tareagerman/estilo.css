@@ -1,0 +1,21 @@
+/* estilo.css */
+
+h1.titulo {
+    align-items: center; /* No tiene efecto en elementos h1 */
+    height: 5; /* No tiene efecto en elementos h1 */
+    width: 21%; /* No tiene efecto en elementos h1 */
+    margin: 0px;
+    margin-top: 20px; /* Mueve el h1 hacia arriba */
+    color: black;
+    text-align: center; /* Centra el texto horizontalmente */
+  }
+  
+  ul li a {
+    color: blue; /* Cambia el color de texto a azul */
+    text-decoration: none; /* Elimina el subrayado predeterminado */
+  }
+  
+  ul li a:hover {
+    color: red; /* Cambia el color de texto a rojo cuando se pasa el ratón por encima */
+  }
+  
